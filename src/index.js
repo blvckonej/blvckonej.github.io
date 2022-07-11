@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 const elem = (
   <div>
-    <h2>Hello World!</h2>
+    <h2>Hello World! My name is Maxim</h2>
     <input type="text" />
     <button/>
   </div>
